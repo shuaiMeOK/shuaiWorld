@@ -17,7 +17,7 @@ public class TesttController {
     public String getStringTest() {
 
 
-
+        System.out.println(123);
         return "后端controller";
     }
 
